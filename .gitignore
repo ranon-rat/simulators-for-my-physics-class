@@ -1,6 +1,10 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+node_modules/
 
-mcu-simulator/*.js
+*.js
+*.js.map
+
+*.css
+*.css.map
+
+main
+yarn.lock
