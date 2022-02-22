@@ -4,8 +4,10 @@
   "description": "There are some stuff that i made for my physics class.",
   "main": "",
   "scripts": {
-    "build": "tsc",
-    "dev": "tsc --watch"
+    "build": "./build.sh",
+    "start": "go run main.go",
+    "watchTS": "tsc --watch",
+    "watchSASS": "sass --watch .:."
   },
   "repository": {
     "type": "git",
