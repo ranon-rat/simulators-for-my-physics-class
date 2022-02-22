@@ -1,0 +1,29 @@
+@import ../../styles/normalize
+@import ../../styles/vars
+
+@import OuterSpace
+
+body
+  background: $primary-background
+  min-height: 100vh
+  height: 100vh
+  max-height: 100vh
+
+div#grid-container
+  display: grid
+  grid-template-areas: "orbital-container"
+  grid-template-columns: 100%
+  grid-template-rows: 100%
+
+  height: 100%
+  width: 100%
+ 
+  color: #ddd
+
+  div#orbital_container
+    display: grid
+    grid-area: orbital-container
+
+    align-self: center
+    justify-content: center
+    align-items: center

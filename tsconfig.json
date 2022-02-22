@@ -28,5 +28,5 @@
     "skipDefaultLibCheck": true,
     "skipLibCheck": true
   },
-  "include": ["public/scripts", "public/mcu-simulator/scripts"]
+  "include": ["public/scripts", "public/mcu-simulator/scripts", "public/planetary-orbit-simulator/scripts"]
 }
