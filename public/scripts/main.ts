@@ -5,13 +5,13 @@ const routes = [
     "Es un simulador simple para observar y manipular el fenómeno del movimiento circular uniforme.",
   ],
   [
-    "planetary-orbit-simulator",
+    "kepler-simulator",
     "Órbita Planetaria",
     "Es un simulador simple para poder observar y manipular la orbita de los planetas en un modelo kepleriano.",
   ],
   [
 
-    "kepler-simulator",
+    "n-body-problem",
     "Ley gravitacional",
     "Simulador de la ley gravitacional"
   ]
