@@ -7,8 +7,13 @@ const routes = [
   [
     "planetary-orbit-simulator",
     "Órbita Planetaria",
-    "Es un simulador simple para poder observar y manipular la orbita de los planetas.",
+    "Es un simulador simple para poder observar y manipular la orbita de los planetas en un modelo kepleriano.",
   ],
+  [
+    "n-body-problem",
+    "Ley gravitacional",
+    "Simulador del problema de los n cuerpos"
+  ]
 ];
 
 await (async function main() {
