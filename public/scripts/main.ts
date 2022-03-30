@@ -7,9 +7,10 @@ const routes = [
   [
     "planetary-orbit-simulator",
     "Órbita Planetaria",
-    "Es un simulador simple para poder observar y manipular la orbita de los planetas.",
+    "Es un simulador simple para poder observar y manipular la orbita de los planetas en un modelo kepleriano.",
   ],
   [
+
     "kepler-simulator",
     "Ley gravitacional",
     "Simulador de la ley gravitacional"

@@ -28,5 +28,7 @@
     "skipDefaultLibCheck": true,
     "skipLibCheck": true
   },
+
   "include": ["public/scripts", "public/mcu-simulator/scripts", "public/planetary-orbit-simulator/scripts", "public/kepler-simulator/scripts"]
+
 }
