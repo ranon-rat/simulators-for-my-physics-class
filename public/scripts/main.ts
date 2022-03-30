@@ -9,6 +9,11 @@ const routes = [
     "Órbita Planetaria",
     "Es un simulador simple para poder observar y manipular la orbita de los planetas.",
   ],
+  [
+    "kepler-simulator",
+    "Ley gravitacional",
+    "Simulador de la ley gravitacional"
+  ]
 ];
 
 await (async function main() {
